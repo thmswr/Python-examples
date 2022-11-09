@@ -94,23 +94,4 @@ def output(sb, city):
 
 main()
 
-#################################################################
-# test_td = soup.find('td', text='Tallinn-Harku') #
-# print(test_td.text)
-
-# print(test_td.find_next_siblings()) #self-check
-
-# sb = test_td.find_next_siblings()
-#
-# print(f'Air temp. mean, C: {sb[0].text}')
-# print(f'Air temp. max, C: {sb[1].text}')
-# print(f'Air temp. min, C: {sb[2].text}')
-# print(f'Soil temp. min, C: {sb[3].text}')
-# print(f'Temp. 2cm above soil, C: {sb[4].text}')
-# print(f'Mean relative humidity: {sb[5].text}%')
-# print(f'Min. relative humidity: {sb[6].text}%')
-# print(f'Mean wind speed, m/s: {sb[7].text}')
-# print(f'Max. wind speed, m/s: {sb[8].text}')
-# print(f'Mean perciptation, mm: {sb[9].text}')
-# print(f'Visible sun time, hours: {sb[10].text}')
-####################################################################
+# end of code
